@@ -1,0 +1,123 @@
+{
+  "mahasiswa" : [{
+  "id": 1,
+  "name": "Netty",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "name": "Corette",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "name": "Morey",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Paco",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "name": "Leah",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "name": "Betsey",
+  "gender": "Female"
+}, {
+  "id": 7,
+  "name": "Britteny",
+  "gender": "Female"
+}, {
+  "id": 8,
+  "name": "Elenore",
+  "gender": "Female"
+}, {
+  "id": 9,
+  "name": "Herc",
+  "gender": "Male"
+}, {
+  "id": 10,
+  "name": "Palm",
+  "gender": "Male"
+}, {
+  "id": 11,
+  "name": "Roxie",
+  "gender": "Female"
+}, {
+  "id": 12,
+  "name": "Charil",
+  "gender": "Female"
+}, {
+  "id": 13,
+  "name": "Ceciley",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Lynette",
+  "gender": "Female"
+}, {
+  "id": 15,
+  "name": "Kory",
+  "gender": "Male"
+}, {
+  "id": 16,
+  "name": "Harbert",
+  "gender": "Male"
+}, {
+  "id": 17,
+  "name": "Fidelity",
+  "gender": "Female"
+}, {
+  "id": 18,
+  "name": "Dar",
+  "gender": "Male"
+}, {
+  "id": 19,
+  "name": "Colleen",
+  "gender": "Female"
+}, {
+  "id": 20,
+  "name": "Clarey",
+  "gender": "Female"
+}, {
+  "id": 21,
+  "name": "Lynnett",
+  "gender": "Female"
+}, {
+  "id": 22,
+  "name": "Aridatha",
+  "gender": "Female"
+}, {
+  "id": 23,
+  "name": "Marketa",
+  "gender": "Female"
+}, {
+  "id": 24,
+  "name": "Adda",
+  "gender": "Female"
+}, {
+  "id": 25,
+  "name": "Heddie",
+  "gender": "Female"
+}, {
+  "id": 26,
+  "name": "Mic",
+  "gender": "Male"
+}, {
+  "id": 27,
+  "name": "Lem",
+  "gender": "Male"
+}, {
+  "id": 28,
+  "name": "Saloma",
+  "gender": "Female"
+}, {
+  "id": 29,
+  "name": "Keene",
+  "gender": "Male"
+}, {
+  "id": 30,
+  "name": "Aurilia",
+  "gender": "Female"
+}]
+}

@@ -1,123 +1,123 @@
 {
-  "mahasiswa" : [{
+  "products: :[{
   "id": 1,
-  "name": "Netty",
-  "gender": "Female"
+  "judul": "Thermometer Digital",
+  "harga": "$2.72"
 }, {
   "id": 2,
-  "name": "Corette",
-  "gender": "Female"
+  "judul": "Wine - Semi Dry Riesling Vineland",
+  "harga": "$8.62"
 }, {
   "id": 3,
-  "name": "Morey",
-  "gender": "Male"
+  "judul": "Icecream - Dibs",
+  "harga": "$7.81"
 }, {
   "id": 4,
-  "name": "Paco",
-  "gender": "Male"
+  "judul": "Pie Filling - Apple",
+  "harga": "$3.99"
 }, {
   "id": 5,
-  "name": "Leah",
-  "gender": "Female"
+  "judul": "Cheese - Manchego, Spanish",
+  "harga": "$6.42"
 }, {
   "id": 6,
-  "name": "Betsey",
-  "gender": "Female"
+  "judul": "Grapes - Black",
+  "harga": "$6.30"
 }, {
   "id": 7,
-  "name": "Britteny",
-  "gender": "Female"
+  "judul": "Juice - Tomato, 10 Oz",
+  "harga": "$3.40"
 }, {
   "id": 8,
-  "name": "Elenore",
-  "gender": "Female"
+  "judul": "Flour - Pastry",
+  "harga": "$7.90"
 }, {
   "id": 9,
-  "name": "Herc",
-  "gender": "Male"
+  "judul": "Cheese - Brick With Pepper",
+  "harga": "$8.59"
 }, {
   "id": 10,
-  "name": "Palm",
-  "gender": "Male"
+  "judul": "Beef - Top Butt",
+  "harga": "$5.21"
 }, {
   "id": 11,
-  "name": "Roxie",
-  "gender": "Female"
+  "judul": "Steampan - Lid For Half Size",
+  "harga": "$1.36"
 }, {
   "id": 12,
-  "name": "Charil",
-  "gender": "Female"
+  "judul": "Onions - Green",
+  "harga": "$5.24"
 }, {
   "id": 13,
-  "name": "Ceciley",
-  "gender": "Female"
+  "judul": "Molasses - Fancy",
+  "harga": "$4.76"
 }, {
   "id": 14,
-  "name": "Lynette",
-  "gender": "Female"
+  "judul": "Beef - Flank Steak",
+  "harga": "$4.43"
 }, {
   "id": 15,
-  "name": "Kory",
-  "gender": "Male"
+  "judul": "Chocolate Bar - Coffee Crisp",
+  "harga": "$7.40"
 }, {
   "id": 16,
-  "name": "Harbert",
-  "gender": "Male"
+  "judul": "Energy Drink Bawls",
+  "harga": "$1.88"
 }, {
   "id": 17,
-  "name": "Fidelity",
-  "gender": "Female"
+  "judul": "Beef - Kobe Striploin",
+  "harga": "$2.37"
 }, {
   "id": 18,
-  "name": "Dar",
-  "gender": "Male"
+  "judul": "Flour - Buckwheat, Dark",
+  "harga": "$2.94"
 }, {
   "id": 19,
-  "name": "Colleen",
-  "gender": "Female"
+  "judul": "Nantucket Apple Juice",
+  "harga": "$0.56"
 }, {
   "id": 20,
-  "name": "Clarey",
-  "gender": "Female"
+  "judul": "Chicken - White Meat, No Tender",
+  "harga": "$1.72"
 }, {
   "id": 21,
-  "name": "Lynnett",
-  "gender": "Female"
+  "judul": "Fish - Halibut, Cold Smoked",
+  "harga": "$1.05"
 }, {
   "id": 22,
-  "name": "Aridatha",
-  "gender": "Female"
+  "judul": "Flower - Leather Leaf Fern",
+  "harga": "$1.11"
 }, {
   "id": 23,
-  "name": "Marketa",
-  "gender": "Female"
+  "judul": "Cup - 6oz, Foam",
+  "harga": "$1.51"
 }, {
   "id": 24,
-  "name": "Adda",
-  "gender": "Female"
+  "judul": "Coffee Cup 8oz 5338cd",
+  "harga": "$6.10"
 }, {
   "id": 25,
-  "name": "Heddie",
-  "gender": "Female"
+  "judul": "Sachet",
+  "harga": "$6.41"
 }, {
   "id": 26,
-  "name": "Mic",
-  "gender": "Male"
+  "judul": "Chef Hat 20cm",
+  "harga": "$9.03"
 }, {
   "id": 27,
-  "name": "Lem",
-  "gender": "Male"
+  "judul": "White Fish - Filets",
+  "harga": "$0.83"
 }, {
   "id": 28,
-  "name": "Saloma",
-  "gender": "Female"
+  "judul": "Sauce - Chili",
+  "harga": "$8.47"
 }, {
   "id": 29,
-  "name": "Keene",
-  "gender": "Male"
+  "judul": "Soup - Beef, Base Mix",
+  "harga": "$3.06"
 }, {
   "id": 30,
-  "name": "Aurilia",
-  "gender": "Female"
+  "judul": "Calypso - Strawberry Lemonade",
+  "harga": "$10.00"
 }]
 }
